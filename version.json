@@ -1,4 +1,6 @@
 {
-  "version": "3.0.1",
-  "apk_url": "https://github.com/اسم_المستخدم_تاعك/اسم_المستودع/releases/download/v3.0.1/app-release.apk"
+  "versionCode": 4,
+  "versionName": "4.0",
+  "apkUrl": "https://litter.catbox.moe/3vw6dd.apk",
+  "changelog": "إضافة ميزة تعديل أسعار وأنواع الزجاج مثل البروفيل، وتحسينات في الفواتير"
 }

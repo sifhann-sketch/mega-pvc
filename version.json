@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "6.0",
+  "versionCode": 7,
+  "versionName": "7.0",
   "apkUrl": "https://github.com/sifhann-sketch/mega-pvc/releases/download/v6.0/WindowCalculator.apk",
-  "changelog": "إصدار 6.0: تفعيل إعلانات Start.io مع وضع الاختبار، إصلاح مشكلة تحميل وتثبيت الحزمة مباشرة"
+  "changelog": "إصدار 7.0: تشغيل إعلانات Start.io بنجاح، وإصلاح مشكلة تحميل وتثبيت الحزمة مباشرة"
 }
